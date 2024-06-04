@@ -1,0 +1,64 @@
+.todo-container {
+  color: white;
+  background: black;
+  width: 90vw;
+  margin: 5em auto;
+  padding: 15px;
+  border-radius: 10px;
+}
+.header {
+  text-align: center;
+  font-size: 2em;
+}
+
+.input-container {
+  background: black;
+  border: 2px solid yellow;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+
+.input {
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: white;
+  color: black;
+  border: 1px;
+  padding: 0.5em;
+  border-radius: 1em;
+  margin: 1em;
+  width: 80%;
+}
+
+.add-btn {
+  font-size: 2em;
+  background-color: greenyellow;
+  color: black;
+  border: none;
+  cursor:pointer;
+  padding: 0px 15px;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+.listtasks{
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    background-color: black;
+    border: 1px solid yellow;
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 0.5em;
+}
+.deletebtn{
+    border-radius: 5px;
+    cursor:pointer;
+    background-color: yellow;
+    float: right;
+    color: black;
+    border: none;
+    margin: -3px 5px;
+    padding: 3px 5px;
+
+}
